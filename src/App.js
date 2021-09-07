@@ -1,8 +1,10 @@
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import Nav from "./Nav";
 function App() {
   return (
-    <h2></h2>
-  )
+    <Nav/>
+    
+  );
 }
 export default App;
